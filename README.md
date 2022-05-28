@@ -1,1 +1,1 @@
-# SoftUni---Courses
+# FirstStepsInCoding---Exercise
